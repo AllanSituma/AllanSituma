@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Andrew Situma</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">highly proficient and dedicated Senior Data/Analytics Engineer with expertise in data collection, processing, and advanced data modeling using dbt, and orchestration with Airflow & Prefect. He excels in dynamic dashboard development, particularly with Tableau, Powerbi, Looker and Metabase empowering stakeholders to make informed decisions. He is skilled in streaming analytics with Spark and cloud engineering with AWS and GCP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allansituma&label=Profile%20views&color=0e75b6&style=flat" alt="allansituma" /> </p>
 
